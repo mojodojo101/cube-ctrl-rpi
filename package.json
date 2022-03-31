@@ -1,0 +1,17 @@
+{
+  "name": "cube-ctrl",
+  "version": "1.0.0",
+  "description": "LED-CUBE controller using firestore as backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mojo",
+  "license": "ISC",
+  "dependencies": {
+    "dd-trace": "^2.1.1",
+    "firebase": "^9.6.5",
+    "sleep": "^6.3.0"
+  }
+}

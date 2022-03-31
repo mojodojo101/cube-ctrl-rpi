@@ -1,0 +1,6 @@
+{
+	"play_image": "sudo ./led-image-viewer   {}  --images/mojo_best_chess.gif  --led-no-hardware-pulse --led-rows=64 --led-cols=64 --led-gpio-mapping=adafruit-hat",
+
+
+
+
